@@ -1,0 +1,36 @@
+body {
+  font-family: "Montserrat", sans-serif !important;
+  background-color: #f7f7f7;
+}
+td {
+  word-wrap: break-word;
+  vertical-align: middle;
+}
+
+.btnAksi {
+  margin-right: 10px;
+}
+/* Mengatur lebar kolom aksi */
+td.aksi {
+  width: 200px; /* Menentukan lebar kolom aksi */
+  text-align: center; /* Menyelaraskan konten ke tengah */
+}
+
+td.tenggat {
+  width: 200px; /* Menentukan lebar kolom aksi */
+  text-align: center; /* Menyelaraskan konten ke tengah */
+}
+
+td.prioritas {
+  width: 200px; /* Menentukan lebar kolom aksi */
+  text-align: center; /* Menyelaraskan konten ke tengah */
+}
+
+.badge {
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+td.check {
+  width: 50px;
+}
